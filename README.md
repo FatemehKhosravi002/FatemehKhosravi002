@@ -1,1 +1,5 @@
-# Bahar ```python class Bahar: backend = ["Django", "Django REST Framework", "FastAPI"] databases = ["PostgreSQL", "MySQL"] tools = ["Docker", "Git", "Linux"] interests = [ "Backend Engineering", "Open Source", "Algorithms", "Bitcoin", "AVR", "Raspberry Pi" ]
+Bahar
+Backend Developer
+
+Focused on Django and Django REST Framework.
+Interested in Linux, open source, algorithms, embedded systems, and Bitcoin.

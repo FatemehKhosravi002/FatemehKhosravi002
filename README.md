@@ -8,12 +8,12 @@
 *  FastAPI
 *  PostgreSQL
 *  Docker
-*  Linux🐧
+*  Linux 🐧
 
 ### Interests
 
 *  Open Source
 *  Algorithms
-*  Cryptocurrencies₿
+*  Cryptocurrencies ₿
 *  Embedded Systems
 *  Raspberry Pi

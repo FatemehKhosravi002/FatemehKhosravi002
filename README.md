@@ -4,15 +4,15 @@ Computer Engineering graduate interested in web development and modern frontend 
 
 ### Currently working with
 
-```text
-HTML · CSS · JavaScript
-Python · Django · FastAPI
+HTML · CSS · JavaScript  
+Python · Django · FastAPI  
 PostgreSQL · Docker · Linux 🐧
 
-#### Interests
-Frontend Development
-Open Source
-Algorithms
-Machine Learning
-Embedded Systems
+### Interests
+
+Frontend Development  
+Open Source  
+Algorithms  
+Machine Learning  
+Embedded Systems  
 Raspberry Pi

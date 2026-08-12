@@ -9,7 +9,7 @@ HTML · CSS · JavaScript
 Python · Django · FastAPI
 PostgreSQL · Docker · Linux 🐧
 
-####Interests
+#### Interests
 Frontend Development
 Open Source
 Algorithms

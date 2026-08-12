@@ -1,19 +1,18 @@
 # Bahar
 
-**Backend developer**
+Computer Engineering graduate interested in web development and modern frontend technologies.
 
 ### Currently working with
 
-*  Django
-*  FastAPI
-*  PostgreSQL
-*  Docker
-*  Linux 🐧
+```text
+HTML · CSS · JavaScript
+Python · Django · FastAPI
+PostgreSQL · Docker · Linux 🐧
 
-### Interests
-
-*  Open Source
-*  Algorithms
-*  Cryptocurrencies ₿
-*  Embedded Systems
-*  Raspberry Pi
+####Interests
+Frontend Development
+Open Source
+Algorithms
+Machine Learning
+Embedded Systems
+Raspberry Pi
